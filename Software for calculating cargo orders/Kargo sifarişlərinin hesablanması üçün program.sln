@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kargo sifarişlərinin hesablanması üçün program", "Kargo sifarişlərinin hesablanması üçün program\Kargo sifarişlərinin hesablanması üçün program.csproj", "{D5C0E895-C265-493B-A057-BC2C92B7816A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C0E895-C265-493B-A057-BC2C92B7816A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C0E895-C265-493B-A057-BC2C92B7816A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C0E895-C265-493B-A057-BC2C92B7816A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C0E895-C265-493B-A057-BC2C92B7816A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A3DB8FE-0890-45ED-A85D-C8BA21C07747}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\obj\Debug\net6.0\Məzənnə hesablama programı.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\obj\Debug\net6.0\Məzənnə hesablama programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\obj\Debug\net6.0\Məzənnə hesablama programı.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\obj\Debug\net6.0\Məzənnə hesablama programı.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\obj\Debug\net6.0\Məzənnə hesablama programı.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\bin\Debug\net6.0\Məzənnə hesablama programı.exe
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\bin\Debug\net6.0\Məzənnə hesablama programı.deps.json
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\bin\Debug\net6.0\Məzənnə hesablama programı.runtimeconfig.json
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\bin\Debug\net6.0\Məzənnə hesablama programı.dll
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\bin\Debug\net6.0\Məzənnə hesablama programı.pdb
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\obj\Debug\net6.0\Məzənnə hesablama programı.dll
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\obj\Debug\net6.0\refint\Məzənnə hesablama programı.dll
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\obj\Debug\net6.0\Məzənnə hesablama programı.pdb
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\obj\Debug\net6.0\Məzənnə hesablama programı.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Exchange rate calculation program\Məzənnə hesablama programı\obj\Debug\net6.0\ref\Məzənnə hesablama programı.dll

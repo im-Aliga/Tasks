@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kargo sifarişlərinin hesablanması üçün program/1.0.0": {
+        "runtime": {
+          "Kargo sifarişlərinin hesablanması üçün program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kargo sifarişlərinin hesablanması üçün program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

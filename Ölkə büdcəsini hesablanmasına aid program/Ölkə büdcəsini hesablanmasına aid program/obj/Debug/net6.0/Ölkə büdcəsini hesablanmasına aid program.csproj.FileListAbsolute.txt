@@ -1,0 +1,30 @@
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\bin\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.exe
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\bin\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.deps.json
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\bin\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.runtimeconfig.json
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\bin\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.dll
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\bin\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.pdb
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.dll
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\refint\Ölkə büdcəsini hesablanmasına aid program.dll
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.pdb
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Ölkə büdcəsini hesablanmasına aid program\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\ref\Ölkə büdcəsini hesablanmasına aid program.dll
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\bin\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.exe
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\bin\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.deps.json
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\bin\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.runtimeconfig.json
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\bin\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.dll
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\bin\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.pdb
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.dll
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\refint\Ölkə büdcəsini hesablanmasına aid program.dll
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.pdb
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\Ölkə büdcəsini hesablanmasına aid program.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Program for calculating the country's budget\Ölkə büdcəsini hesablanmasına aid program\obj\Debug\net6.0\ref\Ölkə büdcəsini hesablanmasına aid program.dll
